@@ -15,9 +15,6 @@ Acceptance rates for the Top CV/NLP/MM/AI conferences
 |EMNLP'22 Findings | 14.0% (453/3242) | 10.1% (96/948)|
 |EMNLP'23 | 23.3% (901/3868) | 14.0% (146/1041)|
 |EMNLP'23 Findings | 22.9% (886/3868) | 19.5% (203/1041)|
-|NAACL-HLT'21 | 29.2% (366/1254) | 22.6% (123/544) |
-|NAACL-HLT'22 | ? (358/?) | ? (84/?) |
-|NAACL-HLT'22 Findings | ? (183/?) | ? (26/?) |
 |COLING'22| 33.4% (522/1563) | 24.2% (112/463) |  
 
 ### Computer Vision and Pattern Recognition
