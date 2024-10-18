@@ -1,4 +1,4 @@
-Acceptance rates for the Top CV/NLP/MM conferences
+Acceptance rates for the Top CV/NLP/MM/AI conferences
 ===== 
 
 ### Natural Language Processing and Computational Linguistics
