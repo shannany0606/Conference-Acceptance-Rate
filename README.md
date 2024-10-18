@@ -6,15 +6,10 @@ Acceptance rates for the Top CV/NLP/MM/AI conferences
 | Conference        | Long Paper           | Short Paper  |
 | ------------- | :------------- | :----- |
 |ACL'22 | ? (604/?) | ? (97/?) |
-|ACL'22 Findings | ? (361/?) | ? (361/?) |
 |ACL'23 | 23.5% (910/3872) | 16.5% (164/992) |
-|ACL'23 Findings | 18.4% (712/3872) | 19.1% (189/992) |
 |EMNLP'21 | 25.6% (650/2540)| 17.9% (190/1060)|
-|EMNLP'21 Findings | 11.8% (300/2540) | 11.2% (119/1060)|
 |EMNLP'22 | 22.1% (715/3242)| 12.0% (114/948)|
-|EMNLP'22 Findings | 14.0% (453/3242) | 10.1% (96/948)|
 |EMNLP'23 | 23.3% (901/3868) | 14.0% (146/1041)|
-|EMNLP'23 Findings | 22.9% (886/3868) | 19.5% (203/1041)|
 |COLING'22| 33.4% (522/1563) | 24.2% (112/463) |  
 
 ### Computer Vision and Pattern Recognition
